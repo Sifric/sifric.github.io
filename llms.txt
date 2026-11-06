@@ -1,0 +1,25 @@
+# Open Sifric
+
+> Software built in the open. Open Sifric is the open-source initiative of Sifric Platforms, an independent technology brand based in Sri Lanka focused on software engineering, digital platforms, and developer technologies.
+
+Open Sifric shares open-source software, developer tools, and engineering resources that developers can inspect, learn from, and, where a project's license permits, reuse and contribute to. Each repository has its own scope, maturity, documentation, and licensing status. Publicly visible source code is not automatically open-source licensed, so check each repository's license before reusing it.
+
+## Pages
+
+- [Home](https://sifric.github.io/): Overview of Open Sifric, what it explores, and how to take part.
+- [Projects](https://sifric.github.io/#/projects): Public repositories from the Sifric GitHub organization, listed with their descriptions, languages, and licenses.
+- [Principles](https://sifric.github.io/#/principles): Clarity first, build for real problems, security and responsibility, maintainability, learning in public, and respectful collaboration.
+- [Contribute](https://sifric.github.io/#/contribute): How to choose a repository, report issues, raise security concerns privately, and send focused pull requests.
+- [About](https://sifric.github.io/#/about): Purpose and focus of Open Sifric and background on Sifric Platforms.
+
+## Source
+
+- [Sifric on GitHub](https://github.com/Sifric): The Sifric organization on GitHub.
+- [All repositories](https://github.com/orgs/Sifric/repositories): The current source of truth for public projects.
+
+## Focus areas
+
+- Developer tools
+- Libraries and integrations
+- Web and mobile technologies
+- Backend and infrastructure

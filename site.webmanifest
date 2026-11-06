@@ -1,0 +1,14 @@
+{
+  "name": "Open Sifric",
+  "short_name": "Open Sifric",
+  "description": "Open-source software, developer tools, and engineering resources from Sifric Platforms.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
